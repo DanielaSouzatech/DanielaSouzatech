@@ -1,13 +1,11 @@
-## OLÁ, EU SOU DANIELA SOUZA!!! 👋
+## Olá, eu sou Daniela Souza 👋
 
 
-- 👩🏽‍🎓 Atualmente estou estudando Tecnologia da Informação pela Uninove.
-- 👩🏽‍💻 Python (Lógica de Programação) pela Fundação Bradesco
-- 📚 Apredendo Inglês
-- 🧐 Cursos completos em; Sharepoint,
-- 👩🏽‍🎓 Segurança da Informação e Excel
-- 👯 Também estou a procura de Estágio
-- 📫 Contato danielasdsantos29@outlook.com
+
+- 👩🏽‍🎓 Atualmente estou estudando Tecnologia da Informação na Uni9
+- 👩 Tenho Curso completo em Sharepoint
+- 🧐 Segurança da Informação
+- 👩🏽‍💻 Inglês ainda está em andamento...
 - 😄 Pronomes Ela/Dela
-- 
+- 📫 Contato danielasdsantos29@outlook.com
   
